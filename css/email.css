@@ -1,0 +1,19 @@
+table td{
+	padding: 15px 5px;
+}
+table td.price{
+	color: red;
+}
+table td.total-price{
+	font-weight: bold;
+	color: #e60000;
+}
+table tr.bold{
+	font-weight: bold;
+}
+.info{
+	font-weight: bold
+}
+p.info{
+	margin-top: 20px;
+}
